@@ -1,7 +1,7 @@
-# 2025-ITELEC2-LAB008
+# 2025-ITELEC2-LAB012
 Week 04 - Conditional Statements
 
-Laboratory # 08 - Guided Coding Exercise: Simple if Statement in Python
+Laboratory # 12 - Guided Coding Exercise: Simulating a Switch Statement and Ternary Operator in Python
 
 ## **Instructions**
 
@@ -77,7 +77,7 @@ Only perform this if this is the first time you will setup your Git Environment
 
 ### **Step 3: Complete the Assignment**
 
-**Laboratory # 08 - Guided Coding Exercise: Simple if Statement in Python**
+**Laboratory # 12 - Guided Coding Exercise: Simulating a Switch Statement and Ternary Operator in Python**
 
    **Objective:**
    - Understand the syntax and structure of a basic if statement.
@@ -117,7 +117,7 @@ Only perform this if this is the first time you will setup your Git Environment
    **Step-by-Step Instructions:**
 
    1. Setting up: Open your preferred Python environment or Text Editor, and create a Python Script.
-      - Required Filename: `if_statement_basic.py`
+      - Required Filename: `switch_ternary_operator.py`
       
    2.  Define a variable:
       - Create a variable named temperature. Assign it a numeric value (e.g., 35). You can change this value later to test different scenarios.
@@ -173,7 +173,7 @@ git add .
    Write a meaningful commit message:
    
 ```bash
-git commit -m "Submitting Python Week 04 - Laboratory # 08"
+git commit -m "Submitting Python Week 04 - Laboratory # 12"
 ```
    
 4. Push your changes to GitHub:
