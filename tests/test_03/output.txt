@@ -1,1 +1,2 @@
-Enter your age: Are you a member? (Yes/No): Membership required for access.
+Enter a day of the week: Today is Wednesday.
+It's a Weekday!

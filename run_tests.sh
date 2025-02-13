@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Run the Python program and test all input/output pairs in the tests folder
-python_script="nested_if_else_statement.py"
+python_script="switch_ternary_operator.py"
 
 declare -A results
 

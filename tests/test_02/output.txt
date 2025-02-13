@@ -1,1 +1,2 @@
-Enter your age: Are you a member? (Yes/No): Access denied. Must be at least 18 years old.
+Enter a day of the week: Today is Tuesday.
+It's a Weekday!
